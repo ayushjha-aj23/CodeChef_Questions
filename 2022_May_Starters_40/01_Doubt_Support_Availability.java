@@ -2,8 +2,7 @@
 
 /* package codechef; // don't place package name! */
 
-/*
-On the CodeChef Practice page, problems with difficulty ≤1600 now have Doubt Support — 
+/*On the CodeChef Practice page, problems with difficulty ≤1600 now have Doubt Support — 
 you can go to the problem page and get your queries answered by an experienced CodeChef Doubt Solver through the "Doubt Support" tab.
 
 Given the difficulty of a problem, output whether this problem has Doubt Support or not.
