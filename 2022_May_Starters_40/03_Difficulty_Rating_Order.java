@@ -1,7 +1,6 @@
 /* package codechef; // don't place package name! */
 
-/*
-Input Format
+/*Input Format
 
 The first line of input will contain a single integer T, denoting the number of test cases. 
 The description of the test cases follows.
@@ -15,8 +14,7 @@ Output Format
 For each test case, output in a new line “Yes” if the problems are attempted in non-decreasing order 
 of difficulty rating and “No” if not. The output should be printed without the quotes.
 Each letter of the output may be printed in either lowercase or uppercase. 
-For example, the strings yes, YeS, and YES will all be treated as equivalent.
-*/
+For example, the strings yes, YeS, and YES will all be treated as equivalent.*/
 
 import java.util.*;
 import java.lang.*;
